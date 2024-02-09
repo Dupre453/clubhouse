@@ -1,0 +1,27 @@
+.block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px auto;
+  text-align: center;
+  width: 100%;
+  max-width: 650px;
+  min-height: 200px;
+  background: #ffffff;
+  box-sizing: border-box;
+  border-radius: 20px;
+  padding: 15px;
+
+  p {
+    font-size: 20px;
+    line-height: 36px;
+
+}
+}
+
+.title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+}
